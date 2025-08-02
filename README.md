@@ -14,7 +14,7 @@ A lightweight Swift Package that adds a convenient SwiftUI View extension to aut
 ## Usage
 
 ```swift
-import AccessibilityScroll
+import AccessibilityScrollable
 
 struct ContentView: View {
     var body: some View {
