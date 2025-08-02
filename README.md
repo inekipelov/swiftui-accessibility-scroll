@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Swift Tests](https://github.com/inekipelov/swiftui-accessibility-scroll/actions/workflows/swift.yml/badge.svg)](https://github.com/inekipelov/swiftui-accessibility-scroll/actions/workflows/swift.yml)  
 [![iOS](https://img.shields.io/badge/iOS-15.0+-blue.svg)](https://developer.apple.com/ios/)
-[![macOS](https://img.shields.io/badge/macOS-12+-white.svg)](https://developer.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/macOS-12.0+-white.svg)](https://developer.apple.com/macos/)
 [![tvOS](https://img.shields.io/badge/tvOS-15.0+-black.svg)](https://developer.apple.com/tvos/)
 [![watchOS](https://img.shields.io/badge/watchOS-8.0+-orange.svg)](https://developer.apple.com/watchos/)
 
